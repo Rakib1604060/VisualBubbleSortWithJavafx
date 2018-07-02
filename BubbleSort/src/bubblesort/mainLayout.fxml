@@ -21,7 +21,7 @@
       <Label layoutX="301.0" layoutY="34.0" text="input Numbers" />
       <Button layoutX="541.0" layoutY="66.0" mnemonicParsing="false" onAction="#OnStartButton" text="Start" />
       <Button layoutX="10.0" layoutY="480.0" mnemonicParsing="false" text="About Me" />
-      <Label layoutX="259.0" layoutY="111.0" text="give a  coma ( , ) to separate a Number" />
+      <Label layoutX="259.0" layoutY="111.0" text="give a  Space to separate a Number" />
       <Label fx:id="counterInput" layoutX="428.0" layoutY="34.0" text="0" />
       <Label fx:id="inputmis" layoutX="119.0" layoutY="311.0" prefHeight="35.0" prefWidth="633.0" text="Number of Inputs is not equal of your given input !!!" textFill="#fc0000">
          <font>
